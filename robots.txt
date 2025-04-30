@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://parchemaster.github.io/Jedi/sitemap.xml
+Sitemap: https://parchemaster.github.io/Jedi/Ivan-Sharai/sitemap.xml
